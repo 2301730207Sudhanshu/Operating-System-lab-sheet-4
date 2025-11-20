@@ -1,4 +1,5 @@
-operating_-system_lab_sheet_04
+#operating_-system_lab_sheet_04
+
 System Calls, VM Detection, Batch Processing & CPU Scheduling
 
 This repository contains the complete implementation for OS Lab Assignment-4, including Python scripts, shell scripts, C programs, and a combined CPU scheduler.
